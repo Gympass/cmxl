@@ -1,6 +1,6 @@
 require "cmxl/version"
 
-require "rchardet19"
+require "rchardet"
 
 require 'cmxl/field'
 require 'cmxl/statement'
